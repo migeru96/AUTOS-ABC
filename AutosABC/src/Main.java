@@ -21,8 +21,7 @@ public class Main  {
         Interfaz interfaz=new Interfaz();
         // TODO code application logic her
         
-        
-        //cambio prueba :v lo q sea 
+        //si buenas como has estado que hay de nuevo
         
     }
     
